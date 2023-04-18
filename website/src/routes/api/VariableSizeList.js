@@ -44,7 +44,7 @@ const PROPS = [
           column width.
         </p>
         <p>
-          This value is used to calculated the estimated total size of a list
+          This value is used to calculate the estimated total size of a list
           before its items have all been measured. The total size impacts user
           scrolling behavior. It is updated whenever new items are measured.
         </p>
